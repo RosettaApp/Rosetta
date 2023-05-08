@@ -32,6 +32,8 @@
   </a>
 </p>
 
+# WARN: This app is in developement (not yet on Flathub). Please report any issues!!
+
 <p align="center">
   <img src="./data/screenshots/preview.png" alt="Preview"/>
 </p>
@@ -88,7 +90,7 @@ A tool for generating pictures with AI (GNOME app)
 - https://github.com/ImaginerApp/Imaginer
 - https://codeberg.org/Imaginer/Imaginer
 
-### Bavarder: Chit-CHat with AI
+### Bavarder: Chit-Chat with AI
 
 A tool for quickly chatting with multiple AI
 
