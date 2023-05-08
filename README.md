@@ -24,6 +24,9 @@
   <a href="https://repology.org/project/rosetta/versions">
     <img alt="Packaging status" src="https://repology.org/badge/tiny-repos/rosetta.svg">
   </a>
+  <a href="https://ci.exozy.me/Rosetta/Rosetta" target="_blank">
+    <img src="https://ci.exozy.me/api/badges/Rosetta/Rosetta/status.svg" alt="status-badge" />
+  </a>
 </p>
 
 <p align="center">
