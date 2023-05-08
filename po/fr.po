@@ -176,9 +176,6 @@ msgstr "Chat GPT"
 #~ msgid "Working offline"
 #~ msgstr "Travailler hors ligne"
 
-#~ msgid "Rosetta"
-#~ msgstr "Rosetta"
-
 #~ msgid "No description"
 #~ msgstr "Aucune description"
 

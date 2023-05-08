@@ -174,9 +174,6 @@ msgstr "Katze GPT"
 #~ msgid "Working offline"
 #~ msgstr "Offline arbeiten"
 
-#~ msgid "Rosetta"
-#~ msgstr "Rosetta"
-
 #~ msgid "No description"
 #~ msgstr "Keine Beschreibung"
 

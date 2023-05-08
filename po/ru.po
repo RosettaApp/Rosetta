@@ -169,9 +169,6 @@ msgstr "Cat GPT"
 #~ msgid "Ready"
 #~ msgstr "Готов"
 
-#~ msgid "Rosetta"
-#~ msgstr "Rosetta"
-
 #~ msgid "No description"
 #~ msgstr "Нет описания"
 
