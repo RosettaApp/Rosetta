@@ -69,15 +69,7 @@ flatpak-builder --install --user --force-clean repo/ build-aux/flatpak/page.code
 
 ## Contribute
 
-The [GNOME Code of Conduct](https://wiki.gnome.org/Foundation/CodeOfConduct) is applicable to this project
-
-### Translate
-
-<a href="https://translate.codeberg.org/engage/rosetta/">
-<img src="https://translate.codeberg.org/widgets/rosetta/-/multi-auto.svg" alt="Translation status" />
-</a>
-
-You can translate rosetta using Codeberg Translate
+The [GNOME Code of Conduct](https://wiki.gnome.org/Foundation/CodeOfConduct) is applicable to this project.
 
 ### Mirrors
 
