@@ -1,0 +1,10 @@
+data/page.codeberg.Rosetta.Rosetta.desktop.in
+data/page.codeberg.Rosetta.Rosetta.appdata.xml.in
+data/page.codeberg.Rosetta.Rosetta.gschema.xml
+data/ui/help-overlay.ui
+data/ui/preferences.blp
+data/ui/window.blp
+src/main.py
+src/preferences.py
+src/window.py
+src/provider/base.py

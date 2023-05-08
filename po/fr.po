@@ -1,0 +1,189 @@
+# Rosetta POT file
+# Copyright (C) 2023 Rosetta
+# This file is distributed under the GNU GPLv3 license.
+# Rosetta, 2023.
+#
+# 0xMRTT <0xmrtt@tuta.io>, 2023.
+# 0xMRTT <0xmrtt@proton.me>, 2023.
+# muznyo <codeberg.vqtek@simplelogin.com>, 2023.
+# rene-coty <irenee.thirion@e.email>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-07 23:01+0200\n"
+"PO-Revision-Date: 2023-05-07 07:43+0000\n"
+"Last-Translator: 0xMRTT <0xmrtt@proton.me>\n"
+"Language-Team: French <https://translate.codeberg.org/projects/Rosetta/"
+"rosetta/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.17\n"
+
+#: data/page.codeberg.Rosetta.Rosetta.desktop.in:3
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:4 data/ui/window.blp:6
+msgid "Rosetta"
+msgstr "Rosetta"
+
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:5
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:13
+msgid "Chit-chat with an AI"
+msgstr "Rosetta avec GPT"
+
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:6
+msgid "0xMRTT"
+msgstr "0xMRTT"
+
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:18
+msgid "Screenshot of Main UI"
+msgstr "Capture d’écran de l’interface principale"
+
+#: data/ui/help-overlay.ui:11
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Général"
+
+#: data/ui/help-overlay.ui:14
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Afficher les raccourcis"
+
+#: data/ui/help-overlay.ui:20
+msgctxt "shortcut window"
+msgid "Ask"
+msgstr "Demander"
+
+#: data/ui/help-overlay.ui:26
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Quitter"
+
+#: data/ui/help-overlay.ui:32
+#, fuzzy
+#| msgid "Preferences"
+msgctxt "shortcut window"
+msgid "Preferences"
+msgstr "Préférences"
+
+#: data/ui/help-overlay.ui:38
+#, fuzzy
+#| msgid "Response"
+msgctxt "shortcut window"
+msgid "Copy response"
+msgstr "Réponse"
+
+#: data/ui/help-overlay.ui:44
+msgctxt "shortcut window"
+msgid "Clear"
+msgstr ""
+
+#: data/ui/preferences.blp:5 data/ui/window.blp:215
+msgid "Preferences"
+msgstr "Préférences"
+
+#: data/ui/preferences.blp:12
+msgid "Prompt"
+msgstr "Requête"
+
+#: data/ui/preferences.blp:15
+msgid "Clear prompt after send"
+msgstr "Effacer la requête après envoi"
+
+#: data/ui/preferences.blp:16
+msgid "The prompt will be cleared after send"
+msgstr "La requête sera effacée après envoi"
+
+#: data/ui/preferences.blp:25
+msgid "Providers"
+msgstr "Fournisseurs"
+
+#: data/ui/window.blp:27
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#: data/ui/window.blp:36 src/provider/base.py:47
+msgid "No network connection"
+msgstr "Pas de connexion réseau"
+
+#: data/ui/window.blp:51
+msgid "Message"
+msgstr "Message"
+
+#: data/ui/window.blp:84 data/ui/window.blp:198
+msgid "Copy to Clipboard"
+msgstr "Copier dans le presse-papiers"
+
+#: data/ui/window.blp:108
+msgid "Ask"
+msgstr "Demander"
+
+#: data/ui/window.blp:117
+msgid "Wait"
+msgstr "Attendez"
+
+#: data/ui/window.blp:132
+msgid "Response"
+msgstr "Réponse"
+
+#: data/ui/window.blp:220
+msgid "Keyboard Shortcuts"
+msgstr "Raccourcis clavier"
+
+#: data/ui/window.blp:225
+msgid "About Rosetta"
+msgstr "À propos de Rosetta"
+
+#: src/provider/base.py:40
+msgid "No API key provided, you can provide one in settings"
+msgstr ""
+"Pas de clé d’API fournie, vous pouvez en ajouter une dans les paramètres"
+
+#: src/provider/base.py:42
+msgid "Open settings"
+msgstr "Ouvrir les paramètres"
+
+#: src/provider/catgpt.py:9
+msgid "Cat GPT"
+msgstr "Chat GPT"
+
+#~ msgid "Quit"
+#~ msgstr "Quitter"
+
+#~ msgid "Listen"
+#~ msgstr "Écouter"
+
+#~ msgid "Listening"
+#~ msgstr "En écoute"
+
+#~ msgid "Speak"
+#~ msgstr "Parler"
+
+#~ msgid "Speaking"
+#~ msgstr "En train de parler"
+
+#~ msgid "Special thanks to"
+#~ msgstr "Remerciements spéciaux à"
+
+#~ msgid "Ready"
+#~ msgstr "Prêt"
+
+#~ msgid "Chat with GPT from your desktop"
+#~ msgstr "Bavardez avec GPT depuis votre bureau"
+
+#~ msgid "Working offline"
+#~ msgstr "Travailler hors ligne"
+
+#~ msgid "Rosetta"
+#~ msgstr "Rosetta"
+
+#~ msgid "No description"
+#~ msgstr "Aucune description"
+
+#~ msgid "Working offline, remote content cannot be fetched"
+#~ msgstr "Travail hors ligne, le contenu distant ne peut pas être récupéré"
+
+#~ msgid "Bot"
+#~ msgstr "Robot"

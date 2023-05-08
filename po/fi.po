@@ -1,0 +1,165 @@
+# Rosetta POT file
+# Copyright (C) 2023 Rosetta
+# This file is distributed under the GNU GPLv3 license.
+# Rosetta, 2023.
+#
+# artnay <jiri.gronroos@iki.fi>, 2023.
+# 0xMRTT <0xmrtt@proton.me>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-07 23:01+0200\n"
+"PO-Revision-Date: 2023-05-07 09:49+0000\n"
+"Last-Translator: 0xMRTT <0xmrtt@proton.me>\n"
+"Language-Team: Finnish <https://translate.codeberg.org/projects/Rosetta/"
+"rosetta/fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
+
+#: data/page.codeberg.Rosetta.Rosetta.desktop.in:3
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:4 data/ui/window.blp:6
+msgid "Rosetta"
+msgstr "Rosetta"
+
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:5
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:13
+msgid "Chit-chat with an AI"
+msgstr "Keskustele tekoälyn kanssa"
+
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:6
+msgid "0xMRTT"
+msgstr "0xMRTT"
+
+#: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:18
+msgid "Screenshot of Main UI"
+msgstr "Kuvakaappaus käyttöliittymästä"
+
+#: data/ui/help-overlay.ui:11
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Yleiset"
+
+#: data/ui/help-overlay.ui:14
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Näytä pikanäppäimet"
+
+#: data/ui/help-overlay.ui:20
+msgctxt "shortcut window"
+msgid "Ask"
+msgstr "Kysy"
+
+#: data/ui/help-overlay.ui:26
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Lopeta"
+
+#: data/ui/help-overlay.ui:32
+#, fuzzy
+#| msgid "Preferences"
+msgctxt "shortcut window"
+msgid "Preferences"
+msgstr "Asetukset"
+
+#: data/ui/help-overlay.ui:38
+#, fuzzy
+#| msgid "Response"
+msgctxt "shortcut window"
+msgid "Copy response"
+msgstr "Vastaus"
+
+#: data/ui/help-overlay.ui:44
+msgctxt "shortcut window"
+msgid "Clear"
+msgstr ""
+
+#: data/ui/preferences.blp:5 data/ui/window.blp:215
+msgid "Preferences"
+msgstr "Asetukset"
+
+#: data/ui/preferences.blp:12
+msgid "Prompt"
+msgstr "Kehote"
+
+#: data/ui/preferences.blp:15
+msgid "Clear prompt after send"
+msgstr "Tyhjennä kehote lähetyksen jälkeen"
+
+#: data/ui/preferences.blp:16
+msgid "The prompt will be cleared after send"
+msgstr "Kehote tyhjennetään lähetyksen jälkeen"
+
+#: data/ui/preferences.blp:25
+msgid "Providers"
+msgstr "Palveluntarjoajat"
+
+#: data/ui/window.blp:27
+msgid "Main Menu"
+msgstr "Päävalikko"
+
+#: data/ui/window.blp:36 src/provider/base.py:47
+msgid "No network connection"
+msgstr "Ei verkkoyhteyttä"
+
+#: data/ui/window.blp:51
+msgid "Message"
+msgstr "Viesti"
+
+#: data/ui/window.blp:84 data/ui/window.blp:198
+msgid "Copy to Clipboard"
+msgstr "Kopioi leikepöydälle"
+
+#: data/ui/window.blp:108
+msgid "Ask"
+msgstr "Kysy"
+
+#: data/ui/window.blp:117
+msgid "Wait"
+msgstr "Odota"
+
+#: data/ui/window.blp:132
+msgid "Response"
+msgstr "Vastaus"
+
+#: data/ui/window.blp:220
+msgid "Keyboard Shortcuts"
+msgstr "Pikanäppäimet"
+
+#: data/ui/window.blp:225
+msgid "About Rosetta"
+msgstr "Tietoja - Rosetta"
+
+#: src/provider/base.py:40
+msgid "No API key provided, you can provide one in settings"
+msgstr "API-avainta ei asetettu, aseta avain asetuksissa"
+
+#: src/provider/base.py:42
+msgid "Open settings"
+msgstr "Avaa asetukset"
+
+#: src/provider/catgpt.py:9
+msgid "Cat GPT"
+msgstr "Cat GPT"
+
+#~ msgid "Quit"
+#~ msgstr "Lopeta"
+
+#~ msgid "Listen"
+#~ msgstr "Kuuntele"
+
+#~ msgid "Listening"
+#~ msgstr "Kuunnellaan"
+
+#~ msgid "Speak"
+#~ msgstr "Puhu"
+
+#~ msgid "Speaking"
+#~ msgstr "Puhutaan"
+
+#~ msgid "Special thanks to"
+#~ msgstr "Erityiskiitokset"

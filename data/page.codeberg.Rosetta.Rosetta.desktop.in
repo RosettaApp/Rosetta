@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Rosetta
+Exec=rosetta
+Icon=page.codeberg.Rosetta.Rosetta
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

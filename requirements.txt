@@ -1,0 +1,9 @@
+# curl -O https://raw.githubusercontent.com/flatpak/flatpak-builder-tools/master/pip/flatpak-pip-generator
+# chmod +x flatpak-pip-generator
+# ./flatpak-pip-generator --requirements-file=requirements.txt --output pypi-dependencies
+
+baichat-py>=0.1.2
+hgchat
+gTTS
+openai
+googlebardpy

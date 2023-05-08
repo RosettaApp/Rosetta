@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="rosetta">
+	<schema id="page.codeberg.Rosetta.Rosetta" path="/page/codeberg/Rosetta/Rosetta/">
+		<key name="width" type="i">
+			<default>350</default>
+		</key>
+		<key name="height" type="i">
+			<default>500</default>
+		</key>
+		<key name="is-maximized" type="b">
+			<default>false</default>
+		</key>
+		<key name="is-fullscreen" type="b">
+			<default>false</default>
+		</key>
+		<key name="clear-after-send" type="b">
+			<default>false</default>
+		</key>
+		<key name="enabled-providers" type="as">
+			<default>["caesar"]</default>
+		</key>
+		<key name="latest-provider" type="s">
+			<default>'huggingchat'</default>
+		</key>
+		<key name="providers-data" type="a{ss}">
+			<default>{}</default>
+		</key>
+	</schema>
+</schemalist>
