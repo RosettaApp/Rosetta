@@ -18,6 +18,8 @@ pipeline:
     commands:
       - nix-env -iA nixpkgs.flatpak-builder
       - fish_add_path ~/.nix-profile/bin
+      - pwd
+      - ls -la
       - flatpak-builder --repo=repo --force-clean build build-aux/flatpak/page.codeberg.Rosetta.Rosetta.json
       - flatpak build-bundle repo rosetta.flatpak page.codeberg.Rosetta.Rosetta.json
       - ls -la
