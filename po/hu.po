@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-07 23:01+0200\n"
+"POT-Creation-Date: 2023-05-08 21:57+0200\n"
 "PO-Revision-Date: 2023-05-03 19:17+0000\n"
 "Last-Translator: 0xMRTT <0xmrtt@proton.me>\n"
 "Language-Team: Hungarian <https://translate.codeberg.org/projects/Rosetta/"
@@ -28,7 +28,7 @@ msgstr "Rosetta"
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:5
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:13
-msgid "Chit-chat with an AI"
+msgid "Encrypt with ease"
 msgstr ""
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:6
@@ -76,7 +76,7 @@ msgctxt "shortcut window"
 msgid "Clear"
 msgstr ""
 
-#: data/ui/preferences.blp:5 data/ui/window.blp:215
+#: data/ui/preferences.blp:5 data/ui/window.blp:173
 msgid "Preferences"
 msgstr "Beállítások"
 
@@ -108,27 +108,27 @@ msgstr "Nincs hálózati kapcsolat"
 msgid "Message"
 msgstr "Üzenet"
 
-#: data/ui/window.blp:84 data/ui/window.blp:198
+#: data/ui/window.blp:84 data/ui/window.blp:156
 msgid "Copy to Clipboard"
 msgstr "Másolás a vágólapra"
 
-#: data/ui/window.blp:108
+#: data/ui/window.blp:92
 msgid "Ask"
 msgstr ""
 
-#: data/ui/window.blp:117
+#: data/ui/window.blp:101
 msgid "Wait"
 msgstr ""
 
-#: data/ui/window.blp:132
+#: data/ui/window.blp:116
 msgid "Response"
 msgstr ""
 
-#: data/ui/window.blp:220
+#: data/ui/window.blp:178
 msgid "Keyboard Shortcuts"
 msgstr ""
 
-#: data/ui/window.blp:225
+#: data/ui/window.blp:183
 msgid "About Rosetta"
 msgstr ""
 
@@ -138,10 +138,6 @@ msgstr ""
 
 #: src/provider/base.py:42
 msgid "Open settings"
-msgstr ""
-
-#: src/provider/catgpt.py:9
-msgid "Cat GPT"
 msgstr ""
 
 #, fuzzy

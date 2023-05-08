@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-07 23:01+0200\n"
+"POT-Creation-Date: 2023-05-08 21:57+0200\n"
 "PO-Revision-Date: 2023-05-07 09:49+0000\n"
 "Last-Translator: 0xMRTT <0xmrtt@proton.me>\n"
 "Language-Team: Russian <https://translate.codeberg.org/projects/Rosetta/"
@@ -30,8 +30,8 @@ msgstr "Rosetta"
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:5
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:13
-msgid "Chit-chat with an AI"
-msgstr "Болтайте с GPT"
+msgid "Encrypt with ease"
+msgstr ""
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:6
 msgid "0xMRTT"
@@ -80,7 +80,7 @@ msgctxt "shortcut window"
 msgid "Clear"
 msgstr ""
 
-#: data/ui/preferences.blp:5 data/ui/window.blp:215
+#: data/ui/preferences.blp:5 data/ui/window.blp:173
 msgid "Preferences"
 msgstr "Параметры"
 
@@ -112,27 +112,27 @@ msgstr "Нет подключения к сети"
 msgid "Message"
 msgstr "Сообщение"
 
-#: data/ui/window.blp:84 data/ui/window.blp:198
+#: data/ui/window.blp:84 data/ui/window.blp:156
 msgid "Copy to Clipboard"
 msgstr "Скопировать в буфер обмена"
 
-#: data/ui/window.blp:108
+#: data/ui/window.blp:92
 msgid "Ask"
 msgstr "Спросить"
 
-#: data/ui/window.blp:117
+#: data/ui/window.blp:101
 msgid "Wait"
 msgstr "Ждите"
 
-#: data/ui/window.blp:132
+#: data/ui/window.blp:116
 msgid "Response"
 msgstr "Ответ"
 
-#: data/ui/window.blp:220
+#: data/ui/window.blp:178
 msgid "Keyboard Shortcuts"
 msgstr "Комбинации клавиш"
 
-#: data/ui/window.blp:225
+#: data/ui/window.blp:183
 msgid "About Rosetta"
 msgstr "О Rosetta"
 
@@ -144,9 +144,11 @@ msgstr "Ключ API не предоставлен, вы можете предо
 msgid "Open settings"
 msgstr "Открыть настройки"
 
-#: src/provider/catgpt.py:9
-msgid "Cat GPT"
-msgstr "Cat GPT"
+#~ msgid "Chit-chat with an AI"
+#~ msgstr "Болтайте с GPT"
+
+#~ msgid "Cat GPT"
+#~ msgstr "Cat GPT"
 
 #~ msgid "Quit"
 #~ msgstr "Выйти"

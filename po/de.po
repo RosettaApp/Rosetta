@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-07 23:01+0200\n"
+"POT-Creation-Date: 2023-05-08 21:57+0200\n"
 "PO-Revision-Date: 2023-05-07 09:49+0000\n"
 "Last-Translator: 0xMRTT <0xmrtt@proton.me>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/Rosetta/"
@@ -28,8 +28,8 @@ msgstr "Rosetta"
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:5
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:13
-msgid "Chit-chat with an AI"
-msgstr "Plaudern Sie mit GPT"
+msgid "Encrypt with ease"
+msgstr ""
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:6
 msgid "0xMRTT"
@@ -78,7 +78,7 @@ msgctxt "shortcut window"
 msgid "Clear"
 msgstr ""
 
-#: data/ui/preferences.blp:5 data/ui/window.blp:215
+#: data/ui/preferences.blp:5 data/ui/window.blp:173
 msgid "Preferences"
 msgstr "Einstellungen"
 
@@ -110,27 +110,27 @@ msgstr "Keine Netzwerkverbindung"
 msgid "Message"
 msgstr "Meldung"
 
-#: data/ui/window.blp:84 data/ui/window.blp:198
+#: data/ui/window.blp:84 data/ui/window.blp:156
 msgid "Copy to Clipboard"
 msgstr "In die Zwischenablage kopieren"
 
-#: data/ui/window.blp:108
+#: data/ui/window.blp:92
 msgid "Ask"
 msgstr "Fragen"
 
-#: data/ui/window.blp:117
+#: data/ui/window.blp:101
 msgid "Wait"
 msgstr "Warten"
 
-#: data/ui/window.blp:132
+#: data/ui/window.blp:116
 msgid "Response"
 msgstr "Antwort"
 
-#: data/ui/window.blp:220
+#: data/ui/window.blp:178
 msgid "Keyboard Shortcuts"
 msgstr "Tastatürkürzel"
 
-#: data/ui/window.blp:225
+#: data/ui/window.blp:183
 msgid "About Rosetta"
 msgstr "Über Rosetta"
 
@@ -143,9 +143,11 @@ msgstr ""
 msgid "Open settings"
 msgstr "Einstellungen öffnen"
 
-#: src/provider/catgpt.py:9
-msgid "Cat GPT"
-msgstr "Katze GPT"
+#~ msgid "Chit-chat with an AI"
+#~ msgstr "Plaudern Sie mit GPT"
+
+#~ msgid "Cat GPT"
+#~ msgstr "Katze GPT"
 
 #~ msgid "Quit"
 #~ msgstr "Aufhören"

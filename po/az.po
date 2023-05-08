@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-07 23:01+0200\n"
+"POT-Creation-Date: 2023-05-08 21:57+0200\n"
 "PO-Revision-Date: 2023-05-07 09:49+0000\n"
 "Last-Translator: 0xMRTT <0xmrtt@proton.me>\n"
 "Language-Team: Azerbaijani <https://translate.codeberg.org/projects/Rosetta/"
@@ -28,8 +28,8 @@ msgstr "Rosetta"
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:5
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:13
-msgid "Chit-chat with an AI"
-msgstr "Chit AI ilə söhbət edin"
+msgid "Encrypt with ease"
+msgstr ""
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:6
 msgid "0xMRTT"
@@ -78,7 +78,7 @@ msgctxt "shortcut window"
 msgid "Clear"
 msgstr ""
 
-#: data/ui/preferences.blp:5 data/ui/window.blp:215
+#: data/ui/preferences.blp:5 data/ui/window.blp:173
 msgid "Preferences"
 msgstr "Üstünlüklər"
 
@@ -110,27 +110,27 @@ msgstr "Şəbəkə bağlantısı yoxdur"
 msgid "Message"
 msgstr "Mesaj"
 
-#: data/ui/window.blp:84 data/ui/window.blp:198
+#: data/ui/window.blp:84 data/ui/window.blp:156
 msgid "Copy to Clipboard"
 msgstr "Buferə kopyalayın"
 
-#: data/ui/window.blp:108
+#: data/ui/window.blp:92
 msgid "Ask"
 msgstr "Soruş"
 
-#: data/ui/window.blp:117
+#: data/ui/window.blp:101
 msgid "Wait"
 msgstr "Gözləyin"
 
-#: data/ui/window.blp:132
+#: data/ui/window.blp:116
 msgid "Response"
 msgstr "Cavab"
 
-#: data/ui/window.blp:220
+#: data/ui/window.blp:178
 msgid "Keyboard Shortcuts"
 msgstr "Klaviatura Qısayolları"
 
-#: data/ui/window.blp:225
+#: data/ui/window.blp:183
 msgid "About Rosetta"
 msgstr "Rosetta haqqında"
 
@@ -141,6 +141,9 @@ msgstr "API açarı təqdim edilməyib, siz onu ayarlarda təmin edə bilərsini
 #: src/provider/base.py:42
 msgid "Open settings"
 msgstr "Parametrləri açın"
+
+#~ msgid "Chit-chat with an AI"
+#~ msgstr "Chit AI ilə söhbət edin"
 
 #~ msgid "Quit"
 #~ msgstr "Çıx"

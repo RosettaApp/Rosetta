@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-07 23:01+0200\n"
+"POT-Creation-Date: 2023-05-08 21:57+0200\n"
 "PO-Revision-Date: 2023-05-07 08:51+0000\n"
 "Last-Translator: Vistaus <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/Rosetta/"
@@ -27,8 +27,8 @@ msgstr "Rosetta"
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:5
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:13
-msgid "Chit-chat with an AI"
-msgstr "Babbel met een KI"
+msgid "Encrypt with ease"
+msgstr ""
 
 #: data/page.codeberg.Rosetta.Rosetta.appdata.xml.in:6
 msgid "0xMRTT"
@@ -77,7 +77,7 @@ msgctxt "shortcut window"
 msgid "Clear"
 msgstr ""
 
-#: data/ui/preferences.blp:5 data/ui/window.blp:215
+#: data/ui/preferences.blp:5 data/ui/window.blp:173
 msgid "Preferences"
 msgstr "Voorkeuren"
 
@@ -109,27 +109,27 @@ msgstr "Geen netwerkverbinding"
 msgid "Message"
 msgstr "Bericht"
 
-#: data/ui/window.blp:84 data/ui/window.blp:198
+#: data/ui/window.blp:84 data/ui/window.blp:156
 msgid "Copy to Clipboard"
 msgstr "Kopiëren naar klembord"
 
-#: data/ui/window.blp:108
+#: data/ui/window.blp:92
 msgid "Ask"
 msgstr "Vraag stellen"
 
-#: data/ui/window.blp:117
+#: data/ui/window.blp:101
 msgid "Wait"
 msgstr "Even geduld…"
 
-#: data/ui/window.blp:132
+#: data/ui/window.blp:116
 msgid "Response"
 msgstr "Antwoord"
 
-#: data/ui/window.blp:220
+#: data/ui/window.blp:178
 msgid "Keyboard Shortcuts"
 msgstr "Sneltoetsen"
 
-#: data/ui/window.blp:225
+#: data/ui/window.blp:183
 msgid "About Rosetta"
 msgstr "Over Rosetta"
 
@@ -141,9 +141,11 @@ msgstr "Er is geen api-sleutel opgegeven - open de voorkeuren"
 msgid "Open settings"
 msgstr "Voorkeuren openen"
 
-#: src/provider/catgpt.py:9
-msgid "Cat GPT"
-msgstr "Cat GPT"
+#~ msgid "Chit-chat with an AI"
+#~ msgstr "Babbel met een KI"
+
+#~ msgid "Cat GPT"
+#~ msgstr "Cat GPT"
 
 #~ msgid "Quit"
 #~ msgstr "Afsluiten"
