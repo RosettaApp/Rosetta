@@ -8,6 +8,7 @@ clone:
       -   git pull
       - else
       -   git clone https://git.exozy.me/Rosetta/Rosetta.git
+      -   cd Rosetta
       - fi
 
 pipeline:
